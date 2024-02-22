@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;JavaRMIServerSide&apos;" deleteContents="false" description="Delete resource &apos;JavaRMIServerSide&apos;" element1="/JavaRMIServerSide" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1708641933557"/>&#x0A;<refactoring comment="Delete resource &apos;JavaRMIClientSide&apos;" deleteContents="false" description="Delete resource &apos;JavaRMIClientSide&apos;" element1="/JavaRMIClientSide" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1708643920124"/>
+</session>

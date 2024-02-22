@@ -1,0 +1,8 @@
+
+public class HelloImplemeation implements HelloInterface {
+	
+	public void printMessae() {
+		System.out.println("Exemplo de utilizaçao de middleware javaRMI");
+	}
+
+}
